@@ -130,3 +130,5 @@ ggplot(averagedActivityDataImputed, aes(interval, steps)) +
     xlab("5-minute interval") + 
     ylab("avarage number of steps")
 ```
+
+![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15.png)
